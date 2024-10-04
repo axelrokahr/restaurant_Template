@@ -59,7 +59,7 @@ export default function Locations() {
 
             {/* Customer Review */}
             <div className="mt-6">
-              <p className="italic text-xl">"Amazing atmosphere and delicious food!" – Emily R.</p>
+              <p className="italic text-xl">&quot;Amazing atmosphere and delicious food!&quot; – Emily R.</p>
             </div>
           </div>
 
@@ -111,7 +111,7 @@ export default function Locations() {
 
               {/* Customer Review */}
               <div className="mt-6">
-                <p className="italic text-xl">"Best tacos I've ever had!" – Michael S.</p>
+                <p className="italic text-xl">&quot;Best tacos I&apos;ve ever had!&quot; – Michael S.</p>
               </div>
             </div>
           </div>
@@ -165,7 +165,7 @@ export default function Locations() {
               {/* Customer Review */}
               <div className="mt-6">
                 <p className="italic text-xl">
-                  "Fantastic service and the margaritas are top-notch!" – Lisa K.
+                  &quot;Fantastic service and the margaritas are top-notch!&quot; – Lisa K.
                 </p>
               </div>
             </div>

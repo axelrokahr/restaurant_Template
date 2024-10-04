@@ -12,7 +12,7 @@ export default function Catering() {
       <section className="mb-12 text-center">
         <h1 className="text-5xl md:text-6xl font-bungee mb-4">Catering</h1>
         <p className="text-md md:text-2xl max-w-2xl font-open_Sans font-thin mx-auto">
-          Let us cater your next event with delicious, authentic Mexican food. Choose from our carefully curated packages to serve small or large groups. Whether it's a family gathering or a corporate event, we’ve got you covered!
+          Let us cater your next event with delicious, authentic Mexican food. Choose from our carefully curated packages to serve small or large groups. Whether it&apos;s a family gathering or a corporate event, we&apos;ve got you covered!
         </p>
       </section>
 

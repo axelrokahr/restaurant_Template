@@ -35,7 +35,7 @@ export default function Home() {
             Taco Vista is a family-owned Mexican restaurant where traditional recipes meet fresh, local ingredients.
             Our goal is to bring the rich flavors of Mexico to your plate with every bite. From our famous Carne Asada
             tacos to our refreshing Mango Fiesta Salad, we offer a taste of authentic Mexico, served with love.
-            Whether you're stopping by for a quick bite or dining with family and friends, Taco Vista offers a
+            Whether you&apos;re stopping by for a quick bite or dining with family and friends, Taco Vista offers a
             warm, welcoming environment that feels like home.
           </p>
           <Link
