@@ -124,16 +124,16 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Testimonials Section */}
-      <section className="py-8 md:py-16 text-black text-center">
+       {/* Testimonials Section */}
+       <section className="py-8 md:py-16 text-black text-center">
         <h2 className="text-4xl md:text-6xl font-bungee mb-8">Our satisfied customers</h2>
         <div className="space-y-8 py-8 px-4 text-white">
           <blockquote className="text-xl md:text-3xl md:p-8 bg-custom-blue-5 font-open_Sans italic rounded-xl">
-            "Taco Vista has the best tacos in town. The carne asada is always cooked perfectly, and the service is top-notch!"
+            &quot;Taco Vista has the best tacos in town. The carne asada is always cooked perfectly, and the service is top-notch!&quot;
             <br />– Jessica M.
           </blockquote>
           <blockquote className="text-xl md:text-3xl md:p-8 bg-custom-blue-5 font-open_Sans italic rounded-xl">
-            "The happy hour margaritas are amazing, and the atmosphere is perfect for a casual night out."
+            &quot;The happy hour margaritas are amazing, and the atmosphere is perfect for a casual night out.&quot;
             <br />– Mark D.
           </blockquote>
         </div>
